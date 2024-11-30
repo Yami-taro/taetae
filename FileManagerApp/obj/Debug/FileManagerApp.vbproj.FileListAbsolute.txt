@@ -1,0 +1,10 @@
+C:\Users\demot\OneDrive\Desktop\inmate\FileManagerApp\FileManagerApp\bin\Debug\FileManagerApp.exe.config
+C:\Users\demot\OneDrive\Desktop\inmate\FileManagerApp\FileManagerApp\bin\Debug\FileManagerApp.exe
+C:\Users\demot\OneDrive\Desktop\inmate\FileManagerApp\FileManagerApp\bin\Debug\FileManagerApp.pdb
+C:\Users\demot\OneDrive\Desktop\inmate\FileManagerApp\FileManagerApp\bin\Debug\FileManagerApp.xml
+C:\Users\demot\OneDrive\Desktop\inmate\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.Form1.resources
+C:\Users\demot\OneDrive\Desktop\inmate\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.Resources.resources
+C:\Users\demot\OneDrive\Desktop\inmate\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.vbproj.GenerateResource.Cache
+C:\Users\demot\OneDrive\Desktop\inmate\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.exe
+C:\Users\demot\OneDrive\Desktop\inmate\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.xml
+C:\Users\demot\OneDrive\Desktop\inmate\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.pdb
